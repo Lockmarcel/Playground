@@ -1,4 +1,4 @@
-package de.lubowiecki.flow;
+package de.lubowiecki.flowcontrol;
 
 import java.util.function.Predicate;
 

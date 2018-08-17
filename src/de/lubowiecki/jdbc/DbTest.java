@@ -1,4 +1,4 @@
-package de.lubowiecki.db;
+package de.lubowiecki.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

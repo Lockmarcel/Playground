@@ -1,4 +1,4 @@
-package de.lubowiecki.vererbung;
+package de.lubowiecki.inheritance;
 
 /**
  *
