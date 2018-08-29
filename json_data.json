@@ -1,0 +1,9 @@
+{
+    "cities":[
+        "Hamburg",
+        "Berlin",
+        "Paris",
+        "London"],
+    
+    "name":"Cities"
+}
